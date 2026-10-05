@@ -1,0 +1,41 @@
+{
+  "copiedFiles": [
+    {
+      "output": "Sources/DemoSDK/DemoSDK.swift",
+      "source": "Packages/DemoSDK/Sources/DemoSDK/DemoSDK.swift"
+    },
+    {
+      "output": "Sources/DemoSDK/Version.swift",
+      "source": "Packages/DemoSDK/Sources/DemoSDK/Version.swift"
+    },
+    {
+      "output": "Sources/DemoSDK/PrivacyInfo.xcprivacy",
+      "source": "Packages/DemoSDK/Sources/DemoSDK/PrivacyInfo.xcprivacy"
+    },
+    {
+      "output": "Sources/DemoSDK/Fixture.json",
+      "source": "Packages/DemoSDK/Sources/DemoSDK/Fixture.json"
+    }
+  ],
+  "fileHashes": {
+    ".gitignore": "6c3f21e0d020c2a3887f176d7d69e0e6456e31888e053bf9dd5d1c5c78972aeb",
+    "CHANGELOG.md": "abe216edbb4fa8b11a47f0e8778abbba5840b7fd333268dbf13ba6ff7ade56f9",
+    "LICENSE": "eafd41a38224da2a93ae6ecf928f37a5b1cd17b8a2d952f894cda498146a7d1b",
+    "Package.swift": "e3268ad75d5655bc19d2f9fd04cc9e9bdafb73b17381e40a627dc14cd1a5697d",
+    "README.md": "339f3f8d2f7d6be4cff1dc163ea12e3099d24ac478c5ed0de5052b3cc330477d",
+    "Sources/DemoSDK/DemoSDK.swift": "445856917c42aef113fde945f210489531045e42e0e24e8f562897148c897b07",
+    "Sources/DemoSDK/Fixture.json": "dbfcc2544605debc51a45b0de4127ec7f73342ee04b2dbd2dd4cf2a7be13cc1a",
+    "Sources/DemoSDK/PrivacyInfo.xcprivacy": "a38c9f3ae98f05056b9a49a459b034089d02e5b7f62c2c15e8d4d6ef772d1b1a",
+    "Sources/DemoSDK/Version.swift": "0d334d645abcf88b0031759e7b216a66581829135f4b11479632ffae9137539f",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+  },
+  "package": "sdk",
+  "policies": {},
+  "schemaVersion": 1,
+  "sourceCommit": "30d2f67a9e23b7db8bcf034191acbfaa52a8e3f1",
+  "sourceRepository": "rudderlabs/experimental-swift-monorepo",
+  "targetClosure": [
+    "DemoSDK"
+  ],
+  "version": "0.1.0"
+}
