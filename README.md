@@ -243,15 +243,14 @@ The project includes automated git hooks to maintain code quality and enforce de
 
 - **pre-push**: Runs before each push
   - Validates branch naming conventions
-  - Builds the project and runs the test suite (Terminal only — GUI clients skip this, CI enforces it)
-  - Prevents pushes if validation or checks fail
+  - Prevents pushes if validation fails (CI builds and runs the tests)
 
 #### Enabling Git Hooks
 
-The git hooks are automatically configured the first time you build the project in Xcode. You can also enable them manually:
+The SDK is developed in the source monorepo. Run this once from the monorepo root to enable the git hooks:
 
 ```bash
-sh scripts/setup-hooks.sh
+make prepare
 ```
 
 #### Branch Naming Convention
@@ -328,3 +327,7 @@ For more information:
 - [Slack](https://rudderstack.com/join-rudderstack-slack-community)
 - [Twitter](https://twitter.com/rudderstack)
 - [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw)
+
+## Report issues / contribute
+
+This package is generated from the [experimental-swift-monorepo](https://github.com/rudderlabs/experimental-swift-monorepo) monorepo. [Report an issue or contribute](https://github.com/rudderlabs/experimental-swift-monorepo/issues/new/choose) there; pull requests in this repository are not merged.
