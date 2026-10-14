@@ -629,7 +629,7 @@
   "fileHashes": {
     ".github/CODEOWNERS": "b6186d483919a45be6dd29537a58adc1a5a34338ab74fcf6e9985506c18eb025",
     ".gitignore": "6c3f21e0d020c2a3887f176d7d69e0e6456e31888e053bf9dd5d1c5c78972aeb",
-    "CHANGELOG.md": "b1a99c9b3ffba2bcd120117639ff8a9f1a17e701884d547a4c2921584f890f1c",
+    "CHANGELOG.md": "2d816518583747b9a44cf6896fffb18a2728a5ffc0779b98fd7d361611763132",
     "CONTRIBUTING.md": "87f801bdfe97ec02103b49dea94959caa9ea7e8193950501ea2135f8d13fa5aa",
     "LICENSE": "130c075edb106634e90df2eb62cba8f7a3cb2c0e8ccec39cb168fc649684205d",
     "Package.swift": "10f4444c09f5806c5387ba5b36bb137188f1d2d202ca6e9aad5f76d7934baeb3",
@@ -699,7 +699,7 @@
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationPlugins/EventFilteringPlugin.swift": "e795a8c36e1c8d027568504feb120425ae06eea1a5eac08d2e5853716acbd4ab",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationPlugins/IntegrationOptionsPlugin.swift": "26c360b95fb313f8c77ac43a6406e9c9a1eb1e03340ff25062cc8e31d5e0582a",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationDeliveryControl.swift": "c349812f76bc01c1972488f0ec35afd933db37fe3ccf5f2486c6b3533f6906a6",
-    "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationError.swift": "e191c4d66f5bc0f895f73a9263ccd48f281212dacf9497b1c2448cf5664e9e3b",
+    "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationError.swift": "f7c6144f898152db5ba85c6df8dfd7918e7325c305eaa1d583b7d440bb18ced3",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationPlugin.swift": "026c65ade32ff923a8d85c17c5c7655db63ebe5503d0916a025527ba80790133",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationPluginStore.swift": "a17841bf199ddda2f8aed4ad40217e6ccb3b906810d323fef7562c53990c345d",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationsController.swift": "9a2c220cba382cdd878d7f9377f83be2560d02a16f9885e2110b964c8cc1b4f3",
@@ -750,16 +750,16 @@
     "Sources/RudderStackAnalytics/Storage/Store/KeyValueStore.swift": "8874b3169709d310c7b2aecf274fcad1f6d0324ef46ade3f15d6cc49832ee2b7",
     "Sources/RudderStackAnalytics/Storage/Store/MemoryStore.swift": "c884d21d8a6240ca8bac077125a0e9a11dc8ef1be9847ddcd79e9771c65fbd90",
     "Sources/RudderStackAnalytics/Storage/StoreModels/StorageModels.swift": "7f93d730b7629c20335973053ce98ed0792c3fd93c938f0f5c4af63617b791a6",
-    "Sources/RudderStackAnalytics/Version.swift": "8ae408c738bd8c9babb0a8d98bf2c20f4e08d1dc419777da23c2c8a7a1bcf18f",
-    "VERSION": "b99b4c7cdf236f59bc9f65d963deaecae3b16a7dad87939cacb9057f7664daee"
+    "Sources/RudderStackAnalytics/Version.swift": "bdcf85d424f44b200822ae445865c9708a565d22c95ae01b9a55f5cb999ad9d4",
+    "VERSION": "acb57a7135b2d7d6e665f67f056e21353023b93835f54def1ae523bf76f1bfb3"
   },
   "package": "sdk",
   "policies": {},
   "schemaVersion": 1,
-  "sourceCommit": "76e39b541535bab91144e7eee469c86e4bff6c30",
+  "sourceCommit": "0433816ec91370fbc9e59b59fefa83e3de40829d",
   "sourceRepository": "rudderlabs/experimental-swift-monorepo",
   "targetClosure": [
     "RudderStackAnalytics"
   ],
-  "version": "1.4.2"
+  "version": "1.5.0"
 }
