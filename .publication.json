@@ -629,11 +629,11 @@
   "fileHashes": {
     ".github/CODEOWNERS": "b6186d483919a45be6dd29537a58adc1a5a34338ab74fcf6e9985506c18eb025",
     ".gitignore": "6c3f21e0d020c2a3887f176d7d69e0e6456e31888e053bf9dd5d1c5c78972aeb",
-    "CHANGELOG.md": "d531a77018081cc4070c2afbcab71bb9f0f868586968e55d3b80a3e2cf206f84",
-    "CONTRIBUTING.md": "22d38b206cdc0e01ed50b9aa144852bebd6736fc126c6853a035be9fd574b92a",
+    "CHANGELOG.md": "b1a99c9b3ffba2bcd120117639ff8a9f1a17e701884d547a4c2921584f890f1c",
+    "CONTRIBUTING.md": "87f801bdfe97ec02103b49dea94959caa9ea7e8193950501ea2135f8d13fa5aa",
     "LICENSE": "130c075edb106634e90df2eb62cba8f7a3cb2c0e8ccec39cb168fc649684205d",
     "Package.swift": "10f4444c09f5806c5387ba5b36bb137188f1d2d202ca6e9aad5f76d7934baeb3",
-    "README.md": "d70e692eda14df21f064dbdae79843d2d9d1e855e9d0315a469a192482a7b30e",
+    "README.md": "9d903b1a30061ee2713676fd2b264220c3f7044b526616f67838473d182b2306",
     "Sources/RudderStackAnalytics/Base/Analytics.swift": "a1115da36f3e4aec524f89552dda5baf3502362258b5e5004e3b4527bbe2db5f",
     "Sources/RudderStackAnalytics/Base/Configuration.swift": "e04d26aebb089c367cea88c304d346f1b21826d061041c7489ab9e200550a947",
     "Sources/RudderStackAnalytics/ConsentManagement/ConsentManagementConfiguration.swift": "58dac517bae56a3a7d8b4ff0627e8610f36f4f93c4922d1a60ad940392cebb81",
@@ -699,7 +699,7 @@
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationPlugins/EventFilteringPlugin.swift": "e795a8c36e1c8d027568504feb120425ae06eea1a5eac08d2e5853716acbd4ab",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationPlugins/IntegrationOptionsPlugin.swift": "26c360b95fb313f8c77ac43a6406e9c9a1eb1e03340ff25062cc8e31d5e0582a",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationDeliveryControl.swift": "c349812f76bc01c1972488f0ec35afd933db37fe3ccf5f2486c6b3533f6906a6",
-    "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationError.swift": "8f6b2e4912d6dbdb1617bf36670b643dc3d2fae5de896e0e0087a02414a69543",
+    "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/DestinationError.swift": "e191c4d66f5bc0f895f73a9263ccd48f281212dacf9497b1c2448cf5664e9e3b",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationPlugin.swift": "026c65ade32ff923a8d85c17c5c7655db63ebe5503d0916a025527ba80790133",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationPluginStore.swift": "a17841bf199ddda2f8aed4ad40217e6ccb3b906810d323fef7562c53990c345d",
     "Sources/RudderStackAnalytics/Plugins/DeviceMode/IntegrationProcessing/IntegrationsController.swift": "9a2c220cba382cdd878d7f9377f83be2560d02a16f9885e2110b964c8cc1b4f3",
@@ -750,16 +750,16 @@
     "Sources/RudderStackAnalytics/Storage/Store/KeyValueStore.swift": "8874b3169709d310c7b2aecf274fcad1f6d0324ef46ade3f15d6cc49832ee2b7",
     "Sources/RudderStackAnalytics/Storage/Store/MemoryStore.swift": "c884d21d8a6240ca8bac077125a0e9a11dc8ef1be9847ddcd79e9771c65fbd90",
     "Sources/RudderStackAnalytics/Storage/StoreModels/StorageModels.swift": "7f93d730b7629c20335973053ce98ed0792c3fd93c938f0f5c4af63617b791a6",
-    "Sources/RudderStackAnalytics/Version.swift": "077df697c5ea328c65fdad1b19774e4f16527627e797da227e774112892079a5",
-    "VERSION": "7d072b48526b023950e4c48db01e8c273554a6401119f5691e7589ba9bc65d9d"
+    "Sources/RudderStackAnalytics/Version.swift": "8ae408c738bd8c9babb0a8d98bf2c20f4e08d1dc419777da23c2c8a7a1bcf18f",
+    "VERSION": "b99b4c7cdf236f59bc9f65d963deaecae3b16a7dad87939cacb9057f7664daee"
   },
   "package": "sdk",
   "policies": {},
   "schemaVersion": 1,
-  "sourceCommit": "64f721abbfcb2f514c5277a9cf6e51d8c43652de",
+  "sourceCommit": "76e39b541535bab91144e7eee469c86e4bff6c30",
   "sourceRepository": "rudderlabs/experimental-swift-monorepo",
   "targetClosure": [
     "RudderStackAnalytics"
   ],
-  "version": "1.4.1"
+  "version": "1.4.2"
 }
