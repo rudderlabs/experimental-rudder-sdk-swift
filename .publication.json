@@ -629,11 +629,11 @@
   "fileHashes": {
     ".github/CODEOWNERS": "b6186d483919a45be6dd29537a58adc1a5a34338ab74fcf6e9985506c18eb025",
     ".gitignore": "6c3f21e0d020c2a3887f176d7d69e0e6456e31888e053bf9dd5d1c5c78972aeb",
-    "CHANGELOG.md": "2d816518583747b9a44cf6896fffb18a2728a5ffc0779b98fd7d361611763132",
-    "CONTRIBUTING.md": "87f801bdfe97ec02103b49dea94959caa9ea7e8193950501ea2135f8d13fa5aa",
+    "CHANGELOG.md": "cc174912a5f580b79e44c4457965a7547f8742cbff24214e2ab2c3ad8243c115",
+    "CONTRIBUTING.md": "2afdc2f2316e8545359bc3b9fa4235b8e9bfc7d20cf9995450d51e28ddf67fe1",
     "LICENSE": "130c075edb106634e90df2eb62cba8f7a3cb2c0e8ccec39cb168fc649684205d",
     "Package.swift": "10f4444c09f5806c5387ba5b36bb137188f1d2d202ca6e9aad5f76d7934baeb3",
-    "README.md": "9d903b1a30061ee2713676fd2b264220c3f7044b526616f67838473d182b2306",
+    "README.md": "21f9a4aa30ac9fc2c14f3cc7ba7494e1a2500ca40ca6a9e6aacfbf075c0298d0",
     "Sources/RudderStackAnalytics/Base/Analytics.swift": "a1115da36f3e4aec524f89552dda5baf3502362258b5e5004e3b4527bbe2db5f",
     "Sources/RudderStackAnalytics/Base/Configuration.swift": "e04d26aebb089c367cea88c304d346f1b21826d061041c7489ab9e200550a947",
     "Sources/RudderStackAnalytics/ConsentManagement/ConsentManagementConfiguration.swift": "58dac517bae56a3a7d8b4ff0627e8610f36f4f93c4922d1a60ad940392cebb81",
@@ -727,7 +727,7 @@
     "Sources/RudderStackAnalytics/Policies/FlushPolicy/StartupFlushPolicy.swift": "49fad440059b3236a2506cb519346c9bb947b88b7db814121dc50f8fc3ae9b5e",
     "Sources/RudderStackAnalytics/Resources/PrivacyInfo.xcprivacy": "2e785ad550f62c366663fc88cc393a684dbee2a4d04ef6d48d223c15af05ef94",
     "Sources/RudderStackAnalytics/SessionManagement/SessionActions.swift": "68f25933a9fbb4ddc42b12a7ed724dafcd10116f110b79ac1f5b2a2fd3c578e6",
-    "Sources/RudderStackAnalytics/SessionManagement/SessionHandler.swift": "0a71c52a1438d3df5200d5823b8caae1cfb794ed3b55b82a93846829b993c32a",
+    "Sources/RudderStackAnalytics/SessionManagement/SessionHandler.swift": "61b33e92b7dcdc4e2a8b3bf0199cf7a2477b8a618ecf9ce4a1e30ffe4bba1ef5",
     "Sources/RudderStackAnalytics/SessionManagement/SessionInfo.swift": "d827db450ba5fd07fd6ce2f69545c7c8ceb2634b24cb32ec0a87cc929e78e044",
     "Sources/RudderStackAnalytics/SourceConfig/SourceConfig.swift": "1c7006e5b1436661970fe8ab76a167907aeeef360fa0c8e0b5a578cbbfbbe126",
     "Sources/RudderStackAnalytics/SourceConfig/SourceConfigProvider.swift": "13eedcff898b7e6e1be104be70919b87964e8526552a8f7ae0e9c6b10e2663cf",
@@ -750,16 +750,16 @@
     "Sources/RudderStackAnalytics/Storage/Store/KeyValueStore.swift": "8874b3169709d310c7b2aecf274fcad1f6d0324ef46ade3f15d6cc49832ee2b7",
     "Sources/RudderStackAnalytics/Storage/Store/MemoryStore.swift": "c884d21d8a6240ca8bac077125a0e9a11dc8ef1be9847ddcd79e9771c65fbd90",
     "Sources/RudderStackAnalytics/Storage/StoreModels/StorageModels.swift": "7f93d730b7629c20335973053ce98ed0792c3fd93c938f0f5c4af63617b791a6",
-    "Sources/RudderStackAnalytics/Version.swift": "bdcf85d424f44b200822ae445865c9708a565d22c95ae01b9a55f5cb999ad9d4",
-    "VERSION": "acb57a7135b2d7d6e665f67f056e21353023b93835f54def1ae523bf76f1bfb3"
+    "Sources/RudderStackAnalytics/Version.swift": "5aa2f433a7d570500eda0e7dc116f459265a27bfd90cf09dd6284479062caedc",
+    "VERSION": "dfe7d71b3f428eb73ed853f8fded65e2986896e21d69f45ebf06bb623b450e14"
   },
-  "package": "sdk",
+  "package": "swift-sdk",
   "policies": {},
   "schemaVersion": 1,
-  "sourceCommit": "0433816ec91370fbc9e59b59fefa83e3de40829d",
+  "sourceCommit": "4c1b4d8983f6a422521fe26d34bf2fead22055f4",
   "sourceRepository": "rudderlabs/experimental-swift-monorepo",
   "targetClosure": [
     "RudderStackAnalytics"
   ],
-  "version": "1.5.0"
+  "version": "1.5.1"
 }
